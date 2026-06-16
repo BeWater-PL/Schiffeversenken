@@ -2,7 +2,7 @@
 
 ## Vorschau
 
-![Schiffe versenken im Terminal](screenshot.png)
+![Schiffe versenken im Terminal](Screenshot.png)
 
 Ein konsolenbasiertes Schiffe-versenken-Spiel (Mensch gegen Computer) in Java,
 mit einer sauber geschichteten, objektorientierten Architektur.
